@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+langchain
+langchain-pinecone
+langchain-community
+pinecone-client
+openai
+huggingface-hub
+gitpython
+PyGithub
+python-dotenv
