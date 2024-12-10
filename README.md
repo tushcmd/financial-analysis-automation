@@ -32,7 +32,7 @@ Filter stocks based on quantitative metrics like:
 
 1. Clone the repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Set up Pinecone API key in Streamlit secrets
+3. Create a `.env`, set up Groq and Pinecone API keys.
 4. Run the application: `streamlit run app.py`
 
 ## Technologies Used
